@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .flights one-word domains from Uni
 
 **Public extract:** 9,633 rows · **Live catalog:** 9,633 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/flights`  
 **Best for:** founders, investors, studios
 
@@ -76,13 +76,13 @@ print(df.head())
 | creator.flights  | available | $59.99    | $75.99        | 70             | 45     | 7      | name.com         |
 | brain.flights    | resell    | —         | —             | 72             | 50     | 5      | GoDaddy.com, LLC |
 | true.flights     | premium   | $500      | $500          | 86             | 52     | 4      | name.com         |
-| forge.flights    | available | $59.99    | $75.99        | 62             | 45     | 5      | name.com         |
+| mix.flights      | available | $59.99    | $75.99        | 66             | 45     | 3      | name.com         |
 | new.flights      | resell    | —         | —             | 82             | 49     | 3      | Porkbun LLC      |
 | one.flights      | premium   | $500      | $500          | 132            | 50     | 3      | name.com         |
-| event.flights    | available | $75.98    | —             | 96             | 44     | 5      | namecheap        |
+| forge.flights    | available | $59.99    | $75.99        | 62             | 45     | 5      | name.com         |
 | safe.flights     | resell    | —         | —             | 84             | 46     | 4      | GoDaddy.com, LLC |
 | game.flights     | premium   | $250      | $250          | 120            | 50     | 4      | name.com         |
-| mix.flights      | available | $59.99    | $75.99        | 66             | 44     | 3      | name.com         |
+| event.flights    | available | $75.98    | —             | 96             | 44     | 5      | namecheap        |
 | united.flights   | resell    | —         | —             | 74             | 43     | 6      | NameCheap, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FLIGHTS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FLIGHTS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
