@@ -79,10 +79,10 @@ print(df.head())
 | mix.flights      | available | $59.99    | $75.99        | 66             | 45     | 3      | name.com         |
 | new.flights      | resell    | —         | —             | 82             | 49     | 3      | Porkbun LLC      |
 | one.flights      | premium   | $500      | $500          | 132            | 50     | 3      | name.com         |
-| forge.flights    | available | $59.99    | $75.99        | 62             | 45     | 5      | name.com         |
+| event.flights    | available | $75.98    | —             | 96             | 44     | 5      | namecheap        |
 | safe.flights     | resell    | —         | —             | 84             | 46     | 4      | GoDaddy.com, LLC |
 | game.flights     | premium   | $250      | $250          | 120            | 50     | 4      | name.com         |
-| event.flights    | available | $75.98    | —             | 96             | 44     | 5      | namecheap        |
+| forge.flights    | available | $59.99    | $75.99        | 62             | 44     | 5      | name.com         |
 | united.flights   | resell    | —         | —             | 74             | 43     | 6      | NameCheap, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
