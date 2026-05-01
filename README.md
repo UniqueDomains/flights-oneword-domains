@@ -1,10 +1,10 @@
-# Available .FLIGHTS One-Word Domains (12,026)
+# Available .FLIGHTS One-Word Domains (12,604)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C026%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C604%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .flights one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,026 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,604 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,026 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,604 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/flights`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| agents.flights             | available | $59.99    | —             | 56             | 50     | 6      | name.com  |
-| Tools.flights              | premium   | $280      | $280          | 56             | 40     | 5      | namecheap |
-| Ryan.flights               | available | $75.98    | —             | 60             | 44     | 4      | namecheap |
-| homes.flights              | premium   | $123.75   | —             | 86             | 34     | 5      | name.com  |
-| shortcuts.flights          | available | $59.99    | —             | 48             | 41     | 10     | name.com  |
-| tips.flights               | premium   | $250      | —             | 80             | 26     | 4      | name.com  |
-| whynot.flights             | available | $59.99    | —             | 74             | 39     | 7      | name.com  |
-| watches.flights            | premium   | $123.75   | —             | 84             | 19     | 7      | name.com  |
-| aliens.flights             | available | $58.99    | $58.99        | 56             | 35     | 6      | namesilo  |
-| vacations.flights          | premium   | $500      | —             | 56             | 19     | 9      | name.com  |
-| spectra.flights            | available | $59.99    | —             | 62             | 34     | 7      | name.com  |
-| jetlag.flights             | premium   | $123.75   | —             | 72             | 17     | 7      | name.com  |
-| etc.flights                | available | $59.99    | —             | 58             | 34     | 3      | name.com  |
-| LongBeach.flights          | premium   | $138.60   | $138.60       | 62             | 11     | 10     | namecheap |
-| Cats.flights               | available | $75.98    | —             | 59             | 33     | 4      | namecheap |
-| DistrictofColumbia.flights | premium   | $138.60   | $138.60       | 52             | 4      | 20     | namecheap |
-| teams.flights              | available | $59.99    | —             | 62             | 32     | 5      | name.com  |
-| trends.flights             | available | $59.99    | —             | 60             | 32     | 6      | name.com  |
-| William.flights            | available | $75.98    | —             | 74             | 31     | 7      | namecheap |
-| letsgo.flights             | available | $59.99    | —             | 57             | 31     | 7      | name.com  |
+| domain                     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar      |
+| -------------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------- |
+| Ryan.flights               | available | $75.98    | —             | 60             | 44     | 4      | namecheap      |
+| holidays.flights           | resell    | —         | —             | 78             | 23     | 8      | Name.com, Inc. |
+| Tools.flights              | premium   | $280      | $280          | 56             | 40     | 5      | namecheap      |
+| shortcuts.flights          | available | $59.99    | —             | 48             | 41     | 10     | name.com       |
+| toys.flights               | premium   | $118.80   | $118.80       | 60             | 24     | 4      | namesilo       |
+| whynot.flights             | available | $59.99    | —             | 74             | 39     | 7      | name.com       |
+| vacations.flights          | premium   | $500      | —             | 56             | 19     | 9      | name.com       |
+| spectra.flights            | available | $59.99    | —             | 62             | 34     | 7      | name.com       |
+| executives.flights         | premium   | $118.80   | $118.80       | 64             | 12     | 10     | namesilo       |
+| etc.flights                | available | $59.99    | —             | 58             | 34     | 3      | name.com       |
+| LongBeach.flights          | premium   | $138.60   | $138.60       | 62             | 11     | 10     | namecheap      |
+| Cats.flights               | available | $75.98    | —             | 59             | 33     | 4      | namecheap      |
+| DistrictofColumbia.flights | premium   | $138.60   | $138.60       | 52             | 4      | 20     | namecheap      |
+| teams.flights              | available | $59.99    | —             | 62             | 32     | 5      | name.com       |
+| William.flights            | available | $75.98    | —             | 74             | 31     | 7      | namecheap      |
+| letsgo.flights             | available | $59.99    | —             | 57             | 31     | 7      | name.com       |
+| slots.flights              | available | $58.99    | $58.99        | 49             | 31     | 5      | namesilo       |
+| dogs.flights               | available | $59.99    | —             | 76             | 28     | 4      | name.com       |
+| gems.flights               | available | $58.99    | $58.99        | 70             | 28     | 4      | namesilo       |
+| forms.flights              | available | $59.99    | —             | 54             | 28     | 5      | name.com       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,026 live domains                              |
+| 1,000-row public sample | 12,604 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FLIGHTS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FLIGHTS One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
