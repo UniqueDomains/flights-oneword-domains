@@ -78,12 +78,12 @@ print(df.head())
 | Cats.flights               | available | $75.98    | —             | 59             | 33     | 4      | namecheap      |
 | DistrictofColumbia.flights | premium   | $138.60   | $138.60       | 52             | 4      | 20     | namecheap      |
 | teams.flights              | available | $59.99    | —             | 62             | 32     | 5      | name.com       |
+| matrix.flights             | premium   | —         | —             | 70             | 46     | 6      | —              |
 | William.flights            | available | $75.98    | —             | 74             | 31     | 7      | namecheap      |
 | letsgo.flights             | available | $59.99    | —             | 57             | 31     | 7      | name.com       |
 | slots.flights              | available | $58.99    | $58.99        | 49             | 31     | 5      | namesilo       |
 | dogs.flights               | available | $59.99    | —             | 76             | 28     | 4      | name.com       |
 | gems.flights               | available | $58.99    | $58.99        | 70             | 28     | 4      | namesilo       |
-| forms.flights              | available | $59.99    | —             | 54             | 28     | 5      | name.com       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 

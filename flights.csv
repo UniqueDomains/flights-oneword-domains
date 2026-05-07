@@ -25,6 +25,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 025afa76-f9d2-4241-b820-6b12b6ec4850,gingerbreadcookie.flights,available,58.99,58.99,52,1,18,namesilo,,
 025d6526-26f8-452b-9200-edd096196fe0,comerunning.flights,available,59.99,,74,1,12,name.com,,
 026817ef-6cf1-4ad9-bc28-25e8ab7ef79e,swords.flights,available,59.99,,52,10,6,name.com,,
+028cfde5-6312-4a8c-bcee-7ee8febac52f,matrix.flights,premium,,,70,46,6,,,
 02a1b64f-8d87-4dc3-ad5a-6d7f94cf66eb,makeovers.flights,available,58.99,58.99,62,3,9,namesilo,,
 02a878fe-4c8c-4911-b1ee-5b5bf02ea2f3,woes.flights,available,58.99,58.99,46,4,4,namesilo,,
 02a8ed79-9308-4885-8cfd-2a3b0cae06ac,shortcuts.flights,available,59.99,,48,41,10,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 548c36ff-b4cd-4e09-9f7a-3c4f7918fc91,havekittens.flights,available,59.99,,66,1,12,name.com,,
 548fee9c-ec2c-4225-a2de-0427a055f90e,abilities.flights,available,59.99,,74,4,9,name.com,,
 5490a248-4d0b-497d-a992-4b13d4442948,footballers.flights,available,58.99,58.99,68,4,11,namesilo,,
-54ba76ae-c685-45cd-8630-1ac7d6db5ae8,runtheshow.flights,available,59.99,,73,3,12,name.com,,
