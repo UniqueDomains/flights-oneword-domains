@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .flights one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,605 domains · **Median ask:** $65.43 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/flights`  
 **Best for:** founders, investors, studios
 
@@ -73,17 +73,17 @@ print(df.head())
 | vacations.flights          | premium   | $500      | —             | 56             | 19     | 9      | name.com       |
 | spectra.flights            | available | $59.99    | —             | 62             | 34     | 7      | name.com       |
 | executives.flights         | premium   | $118.80   | $118.80       | 64             | 12     | 10     | namesilo       |
-| etc.flights                | available | $59.99    | —             | 58             | 34     | 3      | name.com       |
-| LongBeach.flights          | premium   | $138.60   | $138.60       | 62             | 11     | 10     | namecheap      |
 | Cats.flights               | available | $75.98    | —             | 59             | 33     | 4      | namecheap      |
-| DistrictofColumbia.flights | premium   | $138.60   | $138.60       | 52             | 4      | 20     | namecheap      |
+| LongBeach.flights          | premium   | $138.60   | $138.60       | 62             | 12     | 10     | namecheap      |
 | teams.flights              | available | $59.99    | —             | 62             | 32     | 5      | name.com       |
+| DistrictofColumbia.flights | premium   | $138.60   | $138.60       | 52             | 4      | 20     | namecheap      |
+| etc.flights                | available | $59.99    | —             | 58             | 32     | 3      | name.com       |
 | matrix.flights             | premium   | —         | —             | 70             | 46     | 6      | —              |
 | William.flights            | available | $75.98    | —             | 74             | 31     | 7      | namecheap      |
 | letsgo.flights             | available | $59.99    | —             | 57             | 31     | 7      | name.com       |
 | slots.flights              | available | $58.99    | $58.99        | 49             | 31     | 5      | namesilo       |
+| gods.flights               | available | $59.99    | —             | 72             | 29     | 4      | name.com       |
 | dogs.flights               | available | $59.99    | —             | 76             | 28     | 4      | name.com       |
-| gems.flights               | available | $58.99    | $58.99        | 70             | 28     | 4      | namesilo       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FLIGHTS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FLIGHTS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
