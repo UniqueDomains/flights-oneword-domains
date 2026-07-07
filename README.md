@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .flights one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,605 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,605 domains · **Median ask:** $65.43 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,605 domains · **Median ask:** $65.95 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/flights`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/flights`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .FLIGHTS one-word doma
 
 ### Files
 
-- `flights.csv` — public CSV extract (1,000 rows)
-- `flights.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `flights.csv`, public CSV extract (1,000 rows)
+- `flights.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar      |
-| -------------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------- |
-| whynot.flights             | available | $59.99    | —             | 74             | 44     | 7      | name.com       |
-| holidays.flights           | resell    | —         | —             | 78             | 23     | 8      | Name.com, Inc. |
-| Tools.flights              | premium   | $280      | $280          | 56             | 40     | 5      | namecheap      |
-| Ryan.flights               | available | $75.98    | —             | 60             | 44     | 4      | namecheap      |
-| toys.flights               | premium   | $118.80   | $118.80       | 60             | 24     | 4      | namesilo       |
-| shortcuts.flights          | available | $59.99    | —             | 48             | 41     | 10     | name.com       |
-| vacations.flights          | premium   | $500      | —             | 56             | 19     | 9      | name.com       |
-| spectra.flights            | available | $59.99    | —             | 62             | 34     | 7      | name.com       |
-| executives.flights         | premium   | $118.80   | $118.80       | 64             | 12     | 10     | namesilo       |
-| Cats.flights               | available | $75.98    | —             | 59             | 33     | 4      | namecheap      |
-| LongBeach.flights          | premium   | $138.60   | $138.60       | 62             | 12     | 10     | namecheap      |
-| teams.flights              | available | $59.99    | —             | 62             | 32     | 5      | name.com       |
-| DistrictofColumbia.flights | premium   | $138.60   | $138.60       | 52             | 4      | 20     | namecheap      |
-| etc.flights                | available | $59.99    | —             | 58             | 32     | 3      | name.com       |
-| matrix.flights             | premium   | —         | —             | 70             | 46     | 6      | —              |
-| William.flights            | available | $75.98    | —             | 74             | 31     | 7      | namecheap      |
-| letsgo.flights             | available | $59.99    | —             | 57             | 31     | 7      | name.com       |
-| slots.flights              | available | $58.99    | $58.99        | 49             | 31     | 5      | namesilo       |
-| gods.flights               | available | $59.99    | —             | 72             | 29     | 4      | name.com       |
-| dogs.flights               | available | $59.99    | —             | 76             | 28     | 4      | name.com       |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| cod.flights       | available | $58.99    | $58.99        | high           | low    | 3      | namesilo                   |
+| united.flights    | resell    | —         | —             | high           | medium | 6      | NameCheap, Inc.            |
+| all.flights       | premium   | $500      | $500          | high           | medium | 3      | name.com                   |
+| dig.flights       | available | $58.99    | $58.99        | high           | low    | 3      | namesilo                   |
+| firsttime.flights | resell    | —         | —             | high           | low    | 10     | Squarespace Domains II LLC |
+| bar.flights       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
+| due.flights       | available | $59.99    | —             | high           | low    | 3      | name.com                   |
+| job.flights       | premium   | $123.75   | —             | high           | low    | 3      | name.com                   |
+| end.flights       | available | $58.99    | $58.99        | high           | low    | 3      | namesilo                   |
+| law.flights       | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                  |
+| kit.flights       | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo                   |
+| low.flights       | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com                   |
+| lan.flights       | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo                   |
+| ten.flights       | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com                   |
+| max.flights       | available | $58.99    | $58.99        | high           | medium | 3      | namesilo                   |
+| try.flights       | premium   | $242      | $242          | high           | low    | 3      | namesilo                   |
+| NYT.flights       | available | $58.99    | $58.99        | high           | low    | 3      | namesilo                   |
+| cali.flights      | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                   |
+| pig.flights       | available | $59.99    | —             | high           | low    | 3      | name.com                   |
+| game.flights      | premium   | $250      | $250          | high           | medium | 4      | name.com                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .flights domains. That makes the comparison straightforward: the extension is consistent, so most of the difference in quality comes from the word itself, the asking price, and any obvious legal or renewal risk. Some names are direct and travel-relevant, while others are abstract or unusually broad, such as alight.flights, problem.flights, or arithmetic.flights. For founders, the strongest options are usually memorable words that fit aviation or booking without confusion. For investors, the better candidates are names where the ask leaves room for resale and the keyword has plausible commercial use within travel.
+The .flights domain extension is built for travel, aviation, and journey-focused brands, making it a natural fit for airlines, travel agencies, booking platforms, and route-based services. This selection spans domains from short, everyday words to descriptive travel phrases, with a median asking price of about $66. Because pricing varies widely across .flights domains, comparing asking price against brandability and clarity is essential before choosing one for a new venture or portfolio.
 
-- All results use the .flights extension
-- Median ask across this set is 65.43
-- Travel-fit words usually beat broad or awkward terms
-- Avoid names with clear trademark exposure
+- 12,605 one-word .flights domains tracked in this selection
+- Median asking price near $66 across the set
+- Travel- and journey-themed names fit airlines, agencies, and booking brands
+- Updated daily to reflect current availability and pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FLIGHTS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FLIGHTS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
