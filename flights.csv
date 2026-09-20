@@ -13,7 +13,7 @@ e5128349-cbd0-40cf-a4b5-059be08f5ef4,antitumour.flights,available,59.99,,high,lo
 62abf861-1df6-4a65-8e3a-4554497197ad,orangejuice.flights,available,58.99,58.99,medium,low,12,namesilo,,,
 084008ad-0c52-48a1-99d8-557a7213e7d6,antifungal.flights,available,23.98,75.98,low,low,10,namecheap,,,
 9c65cb2d-e5f7-4994-b0a1-b7fb8016f91d,stations.flights,available,58.99,58.99,medium,low,8,namesilo,,,
-ec56b459-190a-4f8a-b9ce-4c6d2a7bd37d,Californiakilowatt.flights,available,58.99,58.99,high,low,19,namesilo,,,
+ec56b459-190a-4f8a-b9ce-4c6d2a7bd37d,californiakilowatt.flights,available,58.99,58.99,high,low,19,namesilo,,,
 28b84b13-0496-4539-8fde-591fcbdcc199,asshole.flights,available,23.98,75.98,low,low,7,namecheap,,,08/08/2026 23:24
 f465dca2-3e61-4204-9094-d7116ac5f8d4,photoartist.flights,available,58.99,58.99,high,low,12,namesilo,,,
 7e4b4c79-3da9-4592-8cbd-9c304ee57437,buffer.flights,available,58.99,58.99,high,low,6,namesilo,,,
@@ -40,7 +40,7 @@ ed5222c4-cf91-4cf8-bece-8993d3aca392,reliable.flights,available,58.99,58.99,high
 da85a7cc-2973-4968-9dee-c11a6fa14ada,beetle.flights,available,23.98,75.98,low,low,6,namecheap,,,09/08/2026 08:17
 9405fbea-dd2e-446f-beb3-7d0777496d84,howthefuck.flights,available,58.99,58.99,medium,low,12,namesilo,,,
 f462710b-3706-4e42-9b65-4a660d009e27,sit.flights,available,58.99,58.99,high,low,3,namesilo,,,
-8dd33731-5860-4e8b-a82e-049896452b3a,health.flights,premium,85.8,85.8,high,medium,6,namecheap,,,
+8dd33731-5860-4e8b-a82e-049896452b3a,health.flights,premium,78.54,78.54,medium,low,6,namesilo,,,19/09/2026 10:54
 261bb3d4-4b6a-45aa-b12d-1430cf910144,halo.flights,available,58.99,58.99,high,medium,4,namesilo,,,
 83bb799b-c0aa-4132-a62e-e86612889d4b,zestful.flights,available,23.98,75.98,low,low,7,namecheap,,,08/08/2026 19:51
 90dfe7ba-90c8-4664-b566-b050f56e9a16,ford.flights,available,,,high,low,4,,,,
@@ -71,7 +71,7 @@ d2f7f8d0-1ff7-45e2-9a77-5c70dbeb0872,ding.flights,available,59.99,,medium,low,4,
 e2c41539-2f5d-4aa2-b5eb-0e3546b498c7,autosomal.flights,available,23.98,75.98,low,low,9,namecheap,,,07/08/2026 21:02
 27a18b20-fbac-458f-85dc-ba99b3aa4aec,beaming.flights,available,23.98,75.98,low,low,7,namecheap,,,09/08/2026 04:03
 b591c437-dcef-4325-a234-e6801538cacc,funny.flights,available,58.99,58.99,high,low,5,namesilo,,,
-bc734d38-0b03-4564-bf51-edfed12af730,StPauls.flights,available,58.99,58.99,medium,low,8,namesilo,,,
+bc734d38-0b03-4564-bf51-edfed12af730,stpauls.flights,available,58.99,58.99,medium,low,8,namesilo,,,
 c0d749ad-9a2f-4462-871a-073a7400379a,acinic.flights,available,23.98,75.98,low,low,6,namecheap,,,
 05720009-1d7b-4acf-8068-cc7fc31df1fe,awny.flights,available,23.98,75.98,low,low,4,namecheap,,,08/08/2026 01:25
 82586b2a-f817-4a00-a611-8a1f7b16d54c,sweptback.flights,available,23.98,75.98,low,low,9,namecheap,,,08/08/2026 06:42
@@ -82,8 +82,8 @@ e1105545-75b4-4da2-bf4d-6dcda4320608,presentation.flights,available,59.99,,mediu
 63586a7a-f559-478b-bebd-28ec3da247e4,goodasnew.flights,available,59.99,,high,low,11,name.com,,,
 222f5d52-7e1e-49a2-950f-d90d8658e38b,advisor.flights,available,58.99,58.99,high,low,7,namesilo,,,
 fc023707-72df-4852-b400-deae05c775b1,reebok.flights,available,58.99,58.99,high,low,6,namesilo,,,
-11b869a6-c998-4241-a154-a33df484509b,schoolbook.flights,available,23.98,75.98,medium,low,11,namecheap,,,14/09/2026 19:18
-119781a1-78ca-4b56-98af-059d92cf37e3,devices.flights,available,58.99,58.99,high,low,7,namesilo,,,
+11b869a6-c998-4241-a154-a33df484509b,schoolbook.flights,available,58.99,58.99,medium,low,11,namesilo,,,19/09/2026 07:03
+119781a1-78ca-4b56-98af-059d92cf37e3,devices.flights,available,58.99,58.99,medium,low,7,namesilo,,,19/09/2026 10:40
 0d08862f-ca2a-41d2-83b9-eb3a728bf59d,cipher.flights,available,23.98,75.98,medium,low,6,namecheap,,,08/09/2026 15:11
 8721ba20-4b36-4839-961f-ee175f4bfc1d,later.flights,premium,250,250,high,low,5,name.com,,,
 2a3cd73a-ef67-4b81-8ca4-ae69ba0507b3,purplenotice.flights,available,58.99,58.99,medium,low,13,namesilo,,,
@@ -108,15 +108,15 @@ b67581a0-4d70-40cc-ac90-df577f9ce5f9,airpressure.flights,available,58.99,58.99,m
 5be99760-1d80-4496-a074-4a8b55f73af7,callcentre.flights,available,58.99,58.99,medium,low,11,namesilo,,,
 f93245f3-96ed-4861-9e69-f8336f74c53b,revised.flights,available,59.99,,medium,low,7,name.com,,,
 8b35f383-fd2e-42e2-9d03-7f0bb7ef3eda,drivinglicense.flights,available,58.99,58.99,high,low,15,namesilo,,,
-051313be-0159-4cc1-a4b6-a2762bf075d5,PlayStation.flights,available,,,high,low,11,,,,
+051313be-0159-4cc1-a4b6-a2762bf075d5,playstation.flights,available,,,high,low,11,,,,
 e161fd9a-65d4-4806-b6b3-558572d26c9e,christian.flights,available,58.99,58.99,high,medium,9,namesilo,,,
 53f319e6-963e-4151-b8af-7e0fa640fda9,bearable.flights,available,23.98,75.98,low,low,8,namecheap,,,09/08/2026 04:27
 8de4dcc1-2ff5-4690-a009-886b9c5c09b9,nowhere.flights,available,58.99,58.99,high,low,7,namesilo,,,
 e6ba8731-10bf-4b29-8377-2f2c9982eee8,acinous.flights,available,23.98,75.98,low,low,7,namecheap,,,
-0b30436c-cae7-466f-a087-3c1ab9b93b40,complete.flights,available,23.98,75.98,medium,low,8,namecheap,,,15/09/2026 06:11
+0b30436c-cae7-466f-a087-3c1ab9b93b40,complete.flights,available,23.98,75.98,medium,low,8,namecheap,,,19/09/2026 19:02
 42596b3e-779e-4816-810a-8af7573d590e,definite.flights,available,59.99,75.99,high,low,8,name.com,,,
 caa3c33b-8201-43cc-9b9c-4edfb7bd37cb,splithairs.flights,available,59.99,,low,low,11,name.com,,,
-b38f26ae-0c86-4edc-9b1e-4a837913a049,MiddleEastern.flights,available,59.99,,medium,low,14,name.com,,,
+b38f26ae-0c86-4edc-9b1e-4a837913a049,middleeastern.flights,available,59.99,,medium,low,14,name.com,,,
 981e7c4a-c4af-4dfc-9671-b646ec635d35,sacked.flights,available,59.99,75.99,medium,low,6,name.com,,,
 56da3167-0133-4213-a9ee-9f1c61c5030a,auric.flights,available,23.98,75.98,low,low,5,namecheap,,,07/08/2026 17:36
 4995a808-aa2d-4818-8593-88e821e0b973,sciences.flights,available,58.99,58.99,low,low,8,namesilo,,,
@@ -131,10 +131,9 @@ a5d2f8ea-dcb2-4fa1-ad76-61d4b6373f7c,countless.flights,available,59.99,75.99,hig
 78b58f5f-35e8-40ff-a6c9-b90522b9f052,scream.flights,available,58.99,58.99,high,low,6,namesilo,,,
 d794be44-310e-4622-bfbc-93784424c2cf,dauntless.flights,available,58.99,58.99,medium,low,9,namesilo,,,
 990171cf-0d31-491a-a0dd-d55eebb6aeaf,march.flights,available,,,high,low,5,,,,
-3755d2b0-9153-49bf-a616-2a148d8205c1,NewRochelle.flights,available,59.99,,low,low,12,name.com,,,
+3755d2b0-9153-49bf-a616-2a148d8205c1,newrochelle.flights,available,59.99,,low,low,12,name.com,,,
 beebe1b6-94cc-4c88-8aa1-fed38dff1fa2,cali.flights,premium,118.8,118.8,high,low,4,namesilo,,,
 9377381b-8ce1-4d70-8e53-a380ed19cff5,documents.flights,available,58.99,58.99,medium,low,9,namesilo,,,
-dca4b59a-7ab5-4048-ac9b-40ce1feb8518,Nutella.flights,available,,,high,low,7,,,,
 7acfdbea-81e5-447e-878b-90d10265cc28,nettlesome.flights,available,23.98,75.98,low,low,10,namecheap,,,
 bdf8f6d5-ed9a-4f0d-8ae0-0d5c2cacb5b5,whatnot.flights,available,58.99,58.99,low,low,8,namesilo,,,
 90aca8e9-3a58-4f7d-b315-9e770dddd39a,worn.flights,available,58.99,58.99,medium,low,4,namesilo,,,
@@ -149,7 +148,7 @@ ae7949fd-00e5-47fa-a011-d156492b0941,eremitical.flights,available,23.98,75.98,lo
 b01f77ff-80b4-451a-9a13-3432629289d8,incometax.flights,available,58.99,58.99,medium,low,10,namesilo,,,
 e995a9a7-e370-40d9-a28c-43775a882f3e,humanbeing.flights,available,58.99,58.99,high,low,11,namesilo,,,
 b1ab6765-a0b5-49df-b420-b013213e3b11,thehell.flights,available,58.99,58.99,high,low,8,namesilo,,,
-3dd03377-6ea8-483f-b888-8e2bdab70193,WorldWideWeb.flights,available,58.99,58.99,low,low,14,namesilo,,,
+3dd03377-6ea8-483f-b888-8e2bdab70193,worldwideweb.flights,available,58.99,58.99,low,low,14,namesilo,,,
 499286a1-50df-433b-b953-89a3f4ea3659,publicized.flights,available,58.99,58.99,medium,low,10,namesilo,,,
 8c7ac6f2-f6bf-4387-9864-7a4438d034b2,bluecheese.flights,available,58.99,58.99,high,low,11,namesilo,,,
 15569ad3-a453-408f-9154-fdafe7c636c8,maternal.flights,available,58.99,58.99,high,low,8,namesilo,,,
@@ -171,8 +170,8 @@ ad52ec86-bb2e-4210-994c-e05b933ec3d6,canal.flights,available,58.99,58.99,medium,
 3ab8ab27-bb92-455f-9385-e080d4a66ba4,warmblooded.flights,available,59.99,,low,low,12,name.com,,,
 e3dd4a8e-07e9-44f4-8d1f-e90cbf0d26b0,alate.flights,available,23.98,75.98,low,low,5,namecheap,,,
 6aaa4450-7873-4bdd-a9fe-2af27178b8ba,their.flights,available,58.99,58.99,low,low,5,namesilo,,,
-c2b8a1ce-fcef-4ffc-a4f9-f66cb21dc855,panel.flights,available,23.98,75.98,medium,low,5,namecheap,,,14/09/2026 02:59
-791beb1e-ee6a-40c8-8657-4c64e398fa8e,Ithinkso.flights,available,58.99,58.99,medium,low,10,namesilo,,,
+c2b8a1ce-fcef-4ffc-a4f9-f66cb21dc855,panel.flights,available,23.98,75.98,low,low,5,namecheap,,,19/09/2026 11:40
+791beb1e-ee6a-40c8-8657-4c64e398fa8e,ithinkso.flights,available,58.99,58.99,medium,low,10,namesilo,,,
 3e2b2c5d-f129-4291-86c1-0f9ba63a390a,sevener.flights,available,23.98,75.98,low,low,7,namecheap,,,
 a89a492a-4beb-4d9a-b88d-d9c0b55ef730,smileyface.flights,available,58.99,58.99,high,low,11,namesilo,,,
 35a3d32a-481f-41b2-8afc-36ab093af3a2,prehensile.flights,available,23.98,75.98,low,low,10,namecheap,,,07/08/2026 22:14
@@ -188,10 +187,10 @@ a124d1eb-0822-490b-9d44-7efca7c72e26,paste.flights,available,59.99,,high,low,5,n
 4c2bce6e-5929-4171-85e0-5ac0253119ba,lithuania.flights,available,,,medium,low,9,,,,
 44c0f906-6fe9-43bd-a80a-a08e8175645d,basophilic.flights,available,23.98,75.98,low,low,10,namecheap,,,08/08/2026 22:53
 e09edfb9-29f6-48d5-87b5-96b4f9ee22ed,expended.flights,available,58.99,58.99,medium,low,8,namesilo,,,
-c00fa668-101c-4d7e-b308-f04ce1aeb984,nontoxic.flights,available,23.98,75.98,low,low,8,namecheap,,,07/08/2026 13:59
+c00fa668-101c-4d7e-b308-f04ce1aeb984,nontoxic.flights,available,23.98,75.98,medium,low,8,namecheap,,,18/09/2026 21:11
 cb3a9155-03f6-48da-aece-08801f14888b,aweary.flights,available,23.98,75.98,low,low,6,namecheap,,,08/08/2026 00:39
-ebae17d4-d56a-41f8-8d14-5b35a8909064,research.flights,available,58.99,58.99,high,low,8,namesilo,,,
-176345ea-50e5-401d-87ff-6a600362474a,design.flights,premium,118.8,118.8,medium,medium,6,namesilo,,,08/09/2026 12:04
+ebae17d4-d56a-41f8-8d14-5b35a8909064,research.flights,available,58.99,58.99,medium,low,8,namesilo,,,20/09/2026 02:40
+176345ea-50e5-401d-87ff-6a600362474a,design.flights,premium,118.8,118.8,medium,low,6,namesilo,,,20/09/2026 03:28
 d1fdc476-68ca-45cb-8198-d6571891da5a,confide.flights,available,58.99,58.99,high,low,7,namesilo,,,
 07729b1e-9c0e-4198-afa7-7fbdb376ab84,sympathy.flights,available,58.99,58.99,high,low,8,namesilo,,,
 6cc7d0b8-95e7-43a6-9a52-91e7861b0668,workfare.flights,available,58.99,58.99,low,low,8,namesilo,,,
@@ -234,7 +233,7 @@ e59c8257-152d-4648-a985-6c5d3dff043e,copyrightsymbol.flights,available,58.99,58.
 fc12029f-4711-49d0-a8f0-4898f78b0d9d,apogametic.flights,available,23.98,75.98,low,low,10,namecheap,,,08/09/2026 09:07
 441b9f35-a697-475b-858d-2c6d48a98c7b,disclosure.flights,available,59.99,,medium,low,10,name.com,,,
 753cb7f5-8525-42b9-8450-4309f3132279,job.flights,premium,123.75,,high,low,3,name.com,,,
-34d69e49-b0ed-4aa7-ad9d-a059f5def4e3,Americas.flights,available,58.99,58.99,medium,low,8,namesilo,,,
+34d69e49-b0ed-4aa7-ad9d-a059f5def4e3,americas.flights,available,58.99,58.99,medium,low,8,namesilo,,,
 6aa4d831-c971-49fb-a6f0-9c2c0530aa1a,twodozen.flights,available,23.98,75.98,low,low,9,namecheap,,,
 68889569-9749-4bef-bbc9-e6e813afbe68,jellybaby.flights,available,58.99,58.99,high,low,10,namesilo,,,
 a7a67ec7-c276-42d4-9041-cbfd1cb2c6c3,chime.flights,available,58.99,58.99,high,low,5,namesilo,,,
@@ -258,7 +257,7 @@ dcc40584-d85e-465e-9f8e-1bdfd16601cb,sealed.flights,available,58.99,58.99,medium
 51799fed-c652-40b2-b057-ccd7d2a85759,chiliad.flights,available,23.98,75.98,low,low,7,namecheap,,,
 1c485b34-9cbb-4044-883e-baccf0f0689b,muffin.flights,available,59.99,,high,low,6,name.com,,,
 8c08d072-6562-406b-930a-6778270ff0e4,pies.flights,available,58.99,58.99,medium,low,4,namesilo,,,
-025c6b77-6edc-4476-870c-f6b4ccd37c77,Westcott.flights,available,58.99,58.99,low,low,8,namesilo,,,
+025c6b77-6edc-4476-870c-f6b4ccd37c77,westcott.flights,available,58.99,58.99,low,low,8,namesilo,,,
 38dd4898-5f35-4691-ac96-6debe81fa871,steal.flights,available,58.99,58.99,high,low,5,namesilo,,,
 bf95f161-c166-43e9-adb2-58ca4d5dbe23,blessed.flights,available,58.99,58.99,medium,low,7,namesilo,,,
 eb392325-1241-4cb6-8899-393dc5a5a9bd,acold.flights,available,23.98,75.98,low,low,5,namecheap,,,
@@ -275,7 +274,7 @@ e2afc749-3680-412e-9f04-80bfd43e572a,documented.flights,available,58.99,58.99,me
 6415aabb-f0a9-4e8a-b60d-a34254388ceb,keepitreal.flights,available,58.99,58.99,high,low,12,namesilo,,,
 c37f39fb-1bb2-45c5-bd76-24f5cbb05db9,susceptible.flights,available,58.99,58.99,high,low,11,namesilo,,,
 fc1e1ab6-f65f-44b1-9ea1-854b2b9537b7,driving.flights,available,59.99,75.99,high,low,7,name.com,,,
-794a94b7-c6d5-41fa-97d1-39b8aa3108b5,Godknows.flights,available,58.99,58.99,medium,low,9,namesilo,,,
+794a94b7-c6d5-41fa-97d1-39b8aa3108b5,godknows.flights,available,58.99,58.99,medium,low,9,namesilo,,,
 1c75d520-738d-4b11-8397-a7ae53330529,delighted.flights,available,23.98,75.98,low,low,9,namecheap,,,09/08/2026 10:01
 bb9bb347-7b67-4476-b7c0-8f4bc0b0b9b3,melt.flights,available,58.99,58.99,high,low,4,namesilo,,,
 323a9cc5-30a5-4a68-ac03-3ccf280411f3,asphaltic.flights,available,23.98,75.98,low,low,9,namecheap,,,07/08/2026 04:46
@@ -290,7 +289,7 @@ ff380c75-e622-4b4a-ae6d-7346fc06e1a0,screenshot.flights,available,58.99,58.99,hi
 5768b9bb-a294-48df-8d8b-b2042b98f988,adroit.flights,available,59.99,75.99,high,low,6,name.com,,,
 9ae69767-67e0-4dd8-a2e1-472892053d0d,artless.flights,available,23.98,75.98,low,low,7,namecheap,,,06/08/2026 23:47
 ab09b847-ded3-4d8c-ad28-f3ae1f00b6a5,havesecondthoughts.flights,available,58.99,58.99,medium,low,20,namesilo,,,
-cbe5b4e1-4b93-4c98-bc74-fdf5cb4b46c9,integrate.flights,available,58.99,58.99,high,low,9,namesilo,,,
+cbe5b4e1-4b93-4c98-bc74-fdf5cb4b46c9,integrate.flights,available,23.98,75.98,medium,low,9,namecheap,,,20/09/2026 03:11
 33440c27-ce66-46a6-b459-de9aa1065067,firsttime.flights,resell,,,high,low,10,Squarespace Domains II LLC,10/07/2018 08:00,10/07/2027 08:00,18/09/2026 01:25
 3648e3f0-fe33-4919-98ce-37f2f4dd3e15,shame.flights,available,58.99,58.99,high,low,5,namesilo,,,
 b5f1dcbd-3437-407c-b8cb-ffbac6777995,wake.flights,available,58.99,58.99,high,low,4,namesilo,,,
@@ -319,12 +318,12 @@ ad2a4dad-4463-4bf8-956d-6ed3a055cf39,fidgety.flights,available,23.98,75.98,low,l
 930ea36f-1ed8-40c3-bae9-86394fc5d540,html.flights,available,58.99,58.99,high,low,4,namesilo,,,
 4729a149-e3b1-4a62-b965-2c030516e845,lunchmeat.flights,available,58.99,58.99,high,low,10,namesilo,,,
 2ef0fcb8-ce5e-455b-a945-2a453167f36f,speakto.flights,available,58.99,58.99,medium,low,8,namesilo,,,
-4b2bd69f-9e73-42d2-8de1-5b610a56e3d2,NYT.flights,available,58.99,58.99,high,low,3,namesilo,,,
+4b2bd69f-9e73-42d2-8de1-5b610a56e3d2,nyt.flights,available,58.99,58.99,high,low,3,namesilo,,,
 1860fbce-c67f-426c-b6b2-a7ed68af4a2f,buttonlike.flights,available,23.98,75.98,low,low,10,namecheap,,,09/08/2026 03:39
 991c77ad-8024-4acb-83a2-d190669084f7,thankyoucard.flights,available,58.99,58.99,low,low,14,namesilo,,,
 cdba91cb-cc4a-4d86-8993-e8d68356bb3d,hurt.flights,available,58.99,58.99,medium,low,4,namesilo,,,
 c830c708-756c-4fa5-8b83-01df8b7babf4,totally.flights,available,59.99,75.99,high,low,7,name.com,,,
-724b0e30-369c-4be5-977f-59051254e6f9,HIPAA.flights,available,58.99,58.99,medium,low,5,namesilo,,,
+724b0e30-369c-4be5-977f-59051254e6f9,hipaa.flights,available,58.99,58.99,medium,low,5,namesilo,,,
 999ca2e1-eaf6-4761-9084-96d8797fae9c,deadofwinter.flights,available,58.99,58.99,low,low,14,namesilo,,,
 709652bb-b593-40e4-923b-dfbad1d782d4,fallinto.flights,available,58.99,58.99,medium,low,9,namesilo,,,
 23422d21-2424-4b1e-a39c-eaa76c348c4e,overflow.flights,available,58.99,58.99,high,low,8,namesilo,,,
@@ -333,7 +332,7 @@ c0b30696-7620-4c4b-a515-b025c5f8afee,behindhand.flights,available,23.98,75.98,lo
 bae5302c-87bd-4614-a569-372723b69a4b,admittable.flights,available,23.98,75.98,low,low,10,namecheap,,,
 a80b1aed-ef82-4fed-8b35-47ce87910693,mint.flights,available,,,high,low,4,,,,
 99354ffd-4439-4778-b17a-bb0e2d43d16f,judges.flights,available,59.99,,medium,low,6,name.com,,,
-c4f45551-c702-483b-8910-c5a12c66cd41,end.flights,available,23.98,75.98,medium,low,3,namecheap,,,12/09/2026 12:19
+c4f45551-c702-483b-8910-c5a12c66cd41,end.flights,available,58.99,58.99,medium,low,3,namesilo,,,19/09/2026 15:33
 25713c56-e827-433f-a38d-8108f63057d3,converge.flights,available,58.99,58.99,high,low,8,namesilo,,,
 632794e5-335e-46dc-a81a-c7ce5603c2db,game.flights,premium,250,250,high,medium,4,name.com,,,
 4e4382be-f7a0-4422-afec-155cf02e5aad,ballistic.flights,available,23.98,75.98,low,low,9,namecheap,,,08/08/2026 10:31
@@ -346,10 +345,10 @@ b6121ef7-35a7-4462-8df0-a53de73093e2,adenoid.flights,available,23.98,75.98,low,l
 e5f5fb5c-ca2e-4b01-8846-7bd7eea87b2a,redapple.flights,available,58.99,58.99,high,low,9,namesilo,,,
 c1e82ad1-480f-4c8d-86d1-5c26858741e9,leasing.flights,available,58.99,58.99,high,low,7,namesilo,,,
 85ab7739-c544-4585-9cd5-dc0604d68194,panoptic.flights,available,23.98,75.98,low,low,8,namecheap,,,
-f05f69e6-f92d-4d19-ae43-cf2498b48873,image.flights,available,23.98,75.98,medium,medium,5,namecheap,,,14/09/2026 05:42
+f05f69e6-f92d-4d19-ae43-cf2498b48873,image.flights,available,23.98,75.98,medium,low,5,namecheap,,,19/09/2026 12:04
 845bc36e-c838-4e4f-87a7-50ee3aa7f078,loud.flights,available,58.99,58.99,medium,low,4,namesilo,,,
 917168fe-ca27-4f6d-ae17-26eb599573e9,worst.flights,premium,58.99,58.99,medium,low,5,namesilo,,,
-51e95861-741d-41ed-89fc-0f199c606ce2,enemy.flights,available,23.98,75.98,medium,low,5,namecheap,,,15/09/2026 01:14
+51e95861-741d-41ed-89fc-0f199c606ce2,enemy.flights,available,23.98,75.98,low,low,5,namecheap,,,19/09/2026 10:02
 cf11cbe9-6f17-471b-87fc-74fda2a54702,anuran.flights,available,23.98,75.98,low,low,6,namecheap,,,05/08/2026 20:48
 a92229e7-05e2-4750-8d79-4f9d88c1e940,goodandproper.flights,available,58.99,58.99,medium,low,15,namesilo,,,
 06e28ddd-6a28-4bd9-ad3e-52a2253aea3d,adoring.flights,available,59.99,75.99,high,low,7,name.com,,,
@@ -372,7 +371,7 @@ d964dc1b-b8c3-42f6-8ff9-4d31d231046b,separation.flights,available,58.99,58.99,me
 e23b959f-8129-42cb-bc36-678aa2948c0e,corona.flights,available,,,high,low,6,,,,
 6e4d41fa-a96b-4a02-86c1-0420be6c88fc,watching.flights,available,,,medium,low,8,,,,
 be5d8d2f-939b-4324-b0a5-1c878087912b,torturing.flights,available,23.98,75.98,low,low,9,namecheap,,,
-7556e49c-c4da-44a0-8934-9c00ebbd9d71,Iamafraidofthis.flights,available,58.99,58.99,medium,low,19,namesilo,,,
+7556e49c-c4da-44a0-8934-9c00ebbd9d71,iamafraidofthis.flights,available,58.99,58.99,medium,low,19,namesilo,,,
 9468f758-8838-4beb-adbc-ef9d4249a3de,accretive.flights,available,23.98,75.98,low,low,9,namecheap,,,
 abafaa54-20ef-423b-adf7-af90268709f2,thing.flights,available,58.99,58.99,high,low,5,namesilo,,,
 c840c026-5cf9-4599-b0ca-92bea2959ad2,bolster.flights,available,58.99,58.99,medium,low,7,namesilo,,,
@@ -383,7 +382,7 @@ d9e0c955-d340-4c07-8783-11db2b34ec5e,came.flights,available,58.99,58.99,high,low
 462cb8d4-dfbf-4fcf-98ec-08f9d8718f35,organized.flights,available,58.99,58.99,high,low,9,namesilo,,,
 38cb4706-dd1d-4c67-b8e9-a3924af3fbed,aged.flights,available,59.99,75.99,high,low,4,name.com,,,
 b92158b5-c28d-4dce-8f50-dd5a0531d168,vengeful.flights,available,59.99,,medium,low,8,name.com,,,
-f24ca1c9-5268-4286-80c7-44aebd838cd6,rightaway.flights,available,23.98,75.98,low,low,10,namecheap,,,14/09/2026 10:46
+f24ca1c9-5268-4286-80c7-44aebd838cd6,rightaway.flights,available,23.98,75.98,low,low,10,namecheap,,,19/09/2026 11:46
 38f9d18e-1d8c-463b-b3ac-50c27205789d,pinging.flights,available,58.99,58.99,high,low,7,namesilo,,,
 6a3bc663-60e1-406d-acf8-8c096de31d8a,merely.flights,available,58.99,58.99,medium,low,6,namesilo,,,
 4fffa70b-3eef-4daa-bcbd-c0ea8acfba0b,project.flights,available,58.99,58.99,high,medium,7,namesilo,,,
@@ -394,7 +393,7 @@ f24ca1c9-5268-4286-80c7-44aebd838cd6,rightaway.flights,available,23.98,75.98,low
 17267a39-eb79-4ebf-a90e-af296114fc6a,surprising.flights,available,58.99,58.99,high,low,10,namesilo,,,
 4e6e6f53-493a-4b71-bc5e-417ccc307742,seasick.flights,available,23.98,75.98,low,low,7,namecheap,,,
 d9febfc9-dec2-4edb-ab71-b23a7a7973ea,getting.flights,available,58.99,58.99,high,low,7,namesilo,,,
-f742c1bc-0d6f-47af-b37a-4d5d81960046,Skype.flights,available,,,high,low,5,,,,
+f742c1bc-0d6f-47af-b37a-4d5d81960046,skype.flights,available,,,high,low,5,,,,
 b95630c9-fed6-479e-b3fd-bab82ee2b8e5,psychic.flights,available,58.99,58.99,high,low,7,namesilo,,,
 b257c1c3-6139-4b14-b753-9cf03e257957,finalyearproject.flights,available,58.99,58.99,high,low,18,namesilo,,,
 3950453f-2353-4ee9-8af7-bb40eff46a82,bringit.flights,available,58.99,58.99,high,low,8,namesilo,,,
@@ -406,12 +405,12 @@ aeb2fbf0-3247-4d62-a5a4-efc746eb29b0,airportnovel.flights,available,23.98,75.98,
 9e2b85d7-b512-44cc-993a-0d29bd858b95,chips.flights,available,58.99,58.99,high,low,5,namesilo,,,
 4730a2ed-3b6c-4a85-9b37-acc2f57b84c5,critique.flights,available,59.99,,high,low,8,name.com,,,
 e5569873-d42b-42f5-8cb8-e1af2c53a736,embrace.flights,available,58.99,58.99,high,low,7,namesilo,,,
-0077f7c0-2000-4f73-bd11-6a8b3c1705f3,goDutch.flights,available,58.99,58.99,medium,low,8,namesilo,,,
+0077f7c0-2000-4f73-bd11-6a8b3c1705f3,godutch.flights,available,58.99,58.99,medium,low,8,namesilo,,,
 aa033fe2-56bd-42f2-8bad-b3c4cf3c68be,everything.flights,available,58.99,58.99,medium,medium,10,namesilo,,,
 396bbf4b-0561-4cde-8524-fd75497669f2,backhanded.flights,available,23.98,75.98,low,low,10,namecheap,,,08/08/2026 05:38
 c6fd7329-f348-41a7-87d6-0390c5458553,quitea.flights,available,58.99,58.99,medium,low,7,namesilo,,,
 3cc3a77e-7ee4-46ae-9857-39684bea226f,dilute.flights,available,23.98,75.98,low,low,6,namecheap,,,
-40c804b9-0024-497f-80db-97e8deb4c69f,Wikimedia.flights,available,,,low,low,9,,,,
+40c804b9-0024-497f-80db-97e8deb4c69f,wikimedia.flights,available,,,low,low,9,,,,
 863681fd-6d84-4265-855f-277efc5b0f89,oncemore.flights,available,23.98,75.98,low,low,9,namecheap,,,13/09/2026 18:09
 4b546c92-4ee0-49e4-8a53-34a3d9104302,foursome.flights,available,23.98,75.98,low,low,8,namecheap,,,
 8eb254a3-b65c-46c1-9911-387a52f493fc,island.flights,premium,242,242,high,low,6,namesilo,,,
@@ -423,7 +422,7 @@ a410d53d-1529-4c02-bd7d-c5eb590e72f5,asiatic.flights,available,23.98,75.98,low,l
 104d95d8-d515-4c08-89f1-9662cc81f2d8,xcviii.flights,available,23.98,75.98,low,low,6,namecheap,,,
 c7d60eed-94d2-43b7-9806-bec28b210f5b,exhaustion.flights,available,59.99,,medium,low,10,name.com,,,
 74e92b2b-6da0-4cc3-88a1-613870de76d0,winterblues.flights,available,58.99,58.99,low,low,12,namesilo,,,
-a63bf96e-9fec-43d1-8616-bf2f09775c19,savings.flights,available,58.99,58.99,high,low,7,namesilo,,,
+a63bf96e-9fec-43d1-8616-bf2f09775c19,savings.flights,available,23.98,75.98,medium,low,7,namecheap,,,19/09/2026 13:58
 555d183b-c5f4-461d-a21d-107773d3335c,spherical.flights,available,23.98,75.98,low,low,9,namecheap,,,08/08/2026 10:21
 63cf03aa-bb39-4da6-87c1-0e83a23cbed0,disciple.flights,available,23.98,75.98,medium,low,8,namecheap,,,
 4a1d8aa8-714c-49af-8565-4adbca5f93e2,bryan.flights,available,59.99,,medium,low,5,name.com,,,
@@ -442,7 +441,7 @@ a838b586-6f64-4187-85d4-19987517fee8,aplacental.flights,available,23.98,75.98,lo
 02921349-a062-4385-b333-f4db986205f1,matched.flights,available,58.99,58.99,high,low,7,namesilo,,,
 3182c3d3-fa7e-41e8-94ff-772430529b32,message.flights,available,23.98,75.98,medium,low,7,namecheap,,,08/09/2026 08:47
 56deff19-19e4-4716-b795-b2366ab02390,numbers.flights,available,59.99,,high,low,7,name.com,,,
-2d706447-40bc-4a58-9d7a-1891ada41891,mixed.flights,available,23.98,75.98,low,low,5,namecheap,,,15/09/2026 02:59
+2d706447-40bc-4a58-9d7a-1891ada41891,mixed.flights,available,58.99,58.99,low,low,5,namesilo,,,19/09/2026 12:23
 c4338983-e6c8-45d7-afe9-673633462a2a,valueable.flights,available,58.99,58.99,high,low,9,namesilo,,,
 572d5468-9217-451e-9b6d-2330194bca8a,sanmarino.flights,available,,,high,low,10,,,,
 8d936ddc-1c80-4bf6-82e5-73129f9e604d,fortytwo.flights,available,23.98,75.98,low,low,9,namecheap,,,
@@ -458,15 +457,15 @@ d7268562-6d88-4fe2-b9d6-13e45403c605,authorityfigure.flights,available,59.99,,me
 c19374c1-0f01-4b15-95e0-af7efd9070e1,aching.flights,available,23.98,75.98,low,low,6,namecheap,,,
 58098e9f-3179-43b4-a8c0-e4ae9b067322,gaming.flights,available,58.99,58.99,high,low,6,namesilo,,,
 5daa3aa2-d7f4-4217-b5df-5aa198984976,xxx.flights,available,23.98,75.98,low,medium,3,namecheap,,,
-4c75521c-4192-4cc1-a5cf-0798dc41fd6b,intruth.flights,available,23.98,75.98,low,low,8,namecheap,,,15/09/2026 07:18
+4c75521c-4192-4cc1-a5cf-0798dc41fd6b,intruth.flights,available,58.99,58.99,low,low,8,namesilo,,,19/09/2026 10:53
 a1169985-a32d-43f5-b224-686f5616860a,middleage.flights,available,58.99,58.99,medium,low,10,namesilo,,,
 de5d065c-a078-4e3c-8144-2520db63da5b,profitmargin.flights,available,59.99,,high,low,13,name.com,,,
 791506d0-0946-4149-a7ab-f7c051be9370,cassette.flights,available,58.99,58.99,medium,low,8,namesilo,,,
 4132a9dc-9615-4ece-bdff-73faf1a06708,superbly.flights,available,58.99,58.99,medium,low,8,namesilo,,,
-d0b9259b-5254-417e-b8c8-216c2dcdb7ed,broadcast.flights,available,59.99,,high,low,9,name.com,,,
+d0b9259b-5254-417e-b8c8-216c2dcdb7ed,broadcast.flights,available,58.99,58.99,medium,low,9,namesilo,,,19/09/2026 05:03
 bc0dadd6-6d28-4eab-b8c5-95fe8736d31e,notime.flights,available,59.99,,low,low,7,name.com,,,
 b944394b-f9b4-4e32-99ff-7822e5cb0a5d,boring.flights,available,58.99,58.99,medium,low,6,namesilo,,,
-6f6e3ae4-f5be-426d-a202-2620951765fd,GodSavetheKing.flights,available,58.99,58.99,high,low,17,namesilo,,,
+6f6e3ae4-f5be-426d-a202-2620951765fd,godsavetheking.flights,available,58.99,58.99,high,low,17,namesilo,,,
 46c8df0b-8abc-4406-99ba-4222595eaf87,absurd.flights,available,23.98,75.98,low,low,6,namecheap,,,
 057bdfc9-07d3-4bd3-9f32-38ecc6b6fc0d,male.flights,available,58.99,58.99,medium,low,4,namesilo,,,
 fbbf1901-e890-43c8-885a-2aecb50280c3,corn.flights,available,58.99,58.99,medium,low,4,namesilo,,,
@@ -487,7 +486,7 @@ faf2305a-324b-4f80-9491-30b5494860e8,bytheway.flights,available,58.99,58.99,medi
 e43b296d-764d-4354-9759-7964e532f4c9,policies.flights,available,23.98,75.98,low,low,8,namecheap,,,04/09/2026 07:55
 b600a623-4964-4fcb-b9b5-936c46891510,laserpointer.flights,available,58.99,58.99,medium,low,13,namesilo,,,
 b572e960-b254-47b4-904e-62dc15a6fd43,criticise.flights,available,58.99,58.99,medium,low,9,namesilo,,,
-35c139a2-4be8-4686-93c5-5b295c8fbab0,MiddleAges.flights,available,58.99,58.99,medium,low,11,namesilo,,,
+35c139a2-4be8-4686-93c5-5b295c8fbab0,middleages.flights,available,58.99,58.99,medium,low,11,namesilo,,,
 0b3c72ae-3684-4acc-b508-c63806abcf4f,becalmed.flights,available,23.98,75.98,low,low,8,namecheap,,,09/08/2026 06:03
 c6acbefe-2a32-402c-a4f8-f05869463620,attired.flights,available,23.98,75.98,low,low,7,namecheap,,,06/08/2026 04:47
 c33b3ddc-700e-4d6b-a200-0164cc3caaf4,shoplift.flights,available,58.99,58.99,high,low,8,namesilo,,,
@@ -510,7 +509,7 @@ e72a9ba2-09c8-456a-b7f8-3e0df435f97a,inherent.flights,available,58.99,58.99,medi
 39bedfd8-779f-4654-915a-003ad35a6daf,trillionaire.flights,available,59.99,,high,low,12,name.com,,,
 41bad9ea-478e-4a1b-9a89-dbcad8a7e808,arranged.flights,available,58.99,58.99,high,low,8,namesilo,,,
 b4a34387-8d42-49de-82ce-cceb7ac53a60,sovereign.flights,available,58.99,58.99,high,medium,9,namesilo,,,
-7d82846e-f0f8-42f7-a9d0-65bf3ab4497f,WestEnd.flights,available,58.99,58.99,medium,low,8,namesilo,,,
+7d82846e-f0f8-42f7-a9d0-65bf3ab4497f,westend.flights,available,58.99,58.99,medium,low,8,namesilo,,,
 3f48eda0-1dab-4db7-baf6-ae0550e9883c,ataraxic.flights,available,23.98,75.98,low,low,8,namecheap,,,07/08/2026 12:49
 1ef38e05-2c49-43e7-b439-cc78829b03ec,third.flights,available,23.98,75.98,low,low,5,namecheap,,,
 348094be-310b-4339-a2f3-a7624300a2f8,dropin.flights,available,58.99,58.99,high,low,7,namesilo,,,
@@ -531,7 +530,7 @@ a9dde3e2-0a89-4029-818d-97f4dc3dbd6a,howlatthemoon.flights,available,58.99,58.99
 e887db28-cd1b-4a97-8d27-388858dad225,affixal.flights,available,23.98,75.98,low,low,7,namecheap,,,
 7e2cbcfd-61b9-444a-9bf8-39c8fb563bb6,corporate.flights,premium,118.8,118.8,high,low,9,namesilo,,,
 cec6ef6f-16cb-4399-bed7-7a796e7b5ffb,youandyours.flights,available,58.99,58.99,low,low,13,namesilo,,,
-de761df4-2d3c-4b3c-bb0f-94751491b59c,school.flights,premium,500,,high,low,6,name.com,,,
+de761df4-2d3c-4b3c-bb0f-94751491b59c,school.flights,premium,520,520,medium,low,6,namecheap,,,20/09/2026 03:02
 2fe24e69-2c4a-4fca-bc87-0c111716dc06,cosmetic.flights,available,59.99,75.99,high,low,8,name.com,,,
 c7fc4054-e247-44c6-b763-c66b95159367,bar.flights,premium,118.8,118.8,high,low,3,namesilo,,,
 4327f9f4-b789-4af2-ae78-bbe6d849a04d,smiling.flights,available,58.99,58.99,high,low,7,namesilo,,,
@@ -561,7 +560,7 @@ d7bcf8d0-e31a-4afa-a074-3723cff984a3,chanukah.flights,available,58.99,58.99,medi
 7ba9a4c6-8204-459e-a04d-96d4706e0026,qualification.flights,available,58.99,58.99,medium,low,13,namesilo,,,
 eb84c4a9-e327-457d-83c6-adda1cc0cc33,quivive.flights,available,23.98,75.98,low,low,8,namecheap,,,
 1c8d9ad0-7e84-41b2-b10e-7952b53eb5f9,childsupport.flights,available,58.99,58.99,medium,low,13,namesilo,,,
-1ef1f162-f0c0-4f32-93f7-7e4cf7610534,connected.flights,available,23.98,75.98,medium,medium,9,namecheap,,,13/09/2026 03:43
+1ef1f162-f0c0-4f32-93f7-7e4cf7610534,connected.flights,available,58.99,58.99,low,low,9,namesilo,,,19/09/2026 11:24
 43ad93e0-7b02-42c9-a3a5-47011d3544c1,advantage.flights,available,58.99,58.99,high,low,9,namesilo,,,
 3d1c5fa9-fcdd-412f-a99d-b839d7fb01d7,tatafornow.flights,available,58.99,58.99,low,low,13,namesilo,,,
 a97f9e93-78e0-4e0b-9234-7802e9bbbc81,costly.flights,available,59.99,75.99,medium,low,6,name.com,,,
@@ -621,11 +620,10 @@ b72df1f2-84b5-4fff-b1cf-ca0ff89cfe95,beach.flights,premium,118.8,118.8,medium,lo
 feab0bc6-89a9-4dfd-bc3a-019e8a828807,azonal.flights,available,23.98,75.98,low,low,6,namecheap,,,08/08/2026 02:27
 acf87519-1179-4078-9199-47e7e313dfe3,abatable.flights,available,23.98,75.98,low,low,8,namecheap,,,
 ee6bfcc1-96a3-4a32-9955-7764f14ed7e3,analogical.flights,available,23.98,75.98,low,low,10,namecheap,,,
-280dff22-6745-4a25-af5a-611b54536fc1,Oxfam.flights,available,58.99,58.99,high,low,5,namesilo,,,
+280dff22-6745-4a25-af5a-611b54536fc1,oxfam.flights,available,58.99,58.99,high,low,5,namesilo,,,
 f3e2ebf3-b85c-4b7f-a0e9-4d52c6d723a3,respecting.flights,available,59.99,,medium,low,10,name.com,,,
 04116d2b-3cd6-4519-b733-77c2855ca6f3,articled.flights,available,23.98,75.98,low,low,8,namecheap,,,06/08/2026 08:28
 081d0f85-705a-45e5-a23f-58cea103f294,justfriends.flights,available,58.99,58.99,high,low,12,namesilo,,,
-52e4f302-cebb-4a4c-bc7e-7fbd8b314f11,OldWorld.flights,available,58.99,58.99,low,low,9,namesilo,,,
 65e498ef-9bda-4f87-a252-2e1e317da716,taxassessment.flights,available,58.99,58.99,medium,low,14,namesilo,,,
 8330c984-5848-4695-bcd8-a2357c6b3b67,intheflesh.flights,available,58.99,58.99,high,low,12,namesilo,,,
 be506dcc-33db-48ef-939d-7dde0171f7a4,abuse.flights,premium,118.8,118.8,medium,low,5,namesilo,,,08/09/2026 12:39
@@ -638,7 +636,7 @@ dffb9c63-65c3-42a2-95fb-2c0445c80c3e,blacktea.flights,available,58.99,58.99,high
 b83d0384-7090-43f6-b33b-69d838e216cb,bornyesterday.flights,available,58.99,58.99,medium,low,14,namesilo,,,
 dd49f106-949f-4e1e-b8a7-90fd178a9acd,waterless.flights,available,23.98,75.98,low,low,9,namecheap,,,06/08/2026 19:03
 2236adfb-7557-459c-a9ad-a3dd3d973b5b,taketheknee.flights,available,59.99,,low,low,13,name.com,,,
-b52d98b4-3d50-4b3d-804d-c451bbbecb18,HBO.flights,available,,,high,low,3,,,,
+b52d98b4-3d50-4b3d-804d-c451bbbecb18,hbo.flights,available,,,high,low,3,,,,
 20ccbdcb-12af-4648-8507-210ccfdebc6a,sombudy.flights,available,58.99,58.99,medium,low,7,namesilo,,,
 6bf68322-e108-4ae4-857d-a0fca1720aea,adrift.flights,available,23.98,75.98,low,low,6,namecheap,,,
 485859a6-0083-466c-9ddb-76188e511d3f,abundantly.flights,available,58.99,58.99,medium,low,10,namesilo,,,
@@ -717,7 +715,7 @@ ec862089-fb67-4880-82cb-cc2db23e6598,attendant.flights,premium,123.75,123.75,hig
 793677e8-2ca2-4d30-af03-c4ff20aa1dff,amorphous.flights,available,23.98,75.98,low,low,9,namecheap,,,
 517ae94d-696a-4163-a8a5-aee2c70c934d,shiny.flights,available,58.99,58.99,high,low,5,namesilo,,,
 9e8b8ba1-1b67-45a7-bbd8-522d4f86a2f2,there.flights,available,58.99,58.99,high,low,5,namesilo,,,
-806f7271-1a8f-4c96-89a1-0a55d66f58cc,Kinder.flights,premium,242,242,high,medium,6,namesilo,,,
+806f7271-1a8f-4c96-89a1-0a55d66f58cc,kinder.flights,premium,242,242,high,medium,6,namesilo,,,
 96e47d31-deb8-441a-834f-23a2d623b5d3,northandsouth.flights,available,58.99,58.99,medium,low,15,namesilo,,,
 ae439eef-82bc-40c3-89b4-f5f9fd2e4d11,hairdryer.flights,available,59.99,,high,low,10,name.com,,,
 db2fa50d-593e-4936-a0dd-3e504a1fef81,candidate.flights,available,58.99,58.99,high,low,9,namesilo,,,
@@ -751,7 +749,7 @@ d16de296-e87b-43b0-b697-7684fa33e5d3,arawak.flights,available,23.98,75.98,low,lo
 e3c8030f-6707-4b28-8b56-219586d2ed50,fiction.flights,available,58.99,58.99,high,low,7,namesilo,,,
 c96591c1-00f8-45c6-9b9b-c769295bfde2,soundbarrier.flights,available,58.99,58.99,low,low,13,namesilo,,,
 fed459b3-489b-476f-bb89-f538d8b31d15,stairs.flights,available,58.99,58.99,medium,low,6,namesilo,,,
-827f436e-7f4e-455b-afe5-fa28db848ea1,social.flights,premium,118.8,118.8,medium,medium,6,namesilo,,,14/09/2026 05:58
+827f436e-7f4e-455b-afe5-fa28db848ea1,social.flights,premium,118.8,118.8,medium,low,6,namesilo,,,19/09/2026 17:20
 dbaedaf8-8424-4959-80bb-679cbe62272e,barbed.flights,available,23.98,75.98,low,low,6,namecheap,,,08/08/2026 16:36
 ab5ab9df-e209-4e84-8e20-2b8d3078c909,convene.flights,available,58.99,58.99,high,low,7,namesilo,,,
 a350991f-b425-482b-ae04-490369b04f28,tracked.flights,available,58.99,58.99,medium,low,7,namesilo,,,
@@ -786,10 +784,10 @@ e9295846-ce9f-4ed9-ba50-390901badbc8,granting.flights,available,59.99,,high,low,
 d52c47c8-5d0f-4540-810d-b8abeebfede0,grandma.flights,available,59.99,,high,low,7,name.com,,,
 019407e2-de42-44af-ad0e-d7467341c4b4,hunger.flights,available,58.99,58.99,high,low,6,namesilo,,,
 328d84fb-fb6b-4b9e-9ba3-1f08315a7dc3,throwabout.flights,available,58.99,58.99,low,low,11,namesilo,,,
-97b003ba-8ca9-495a-b1b9-d60eb4730e58,BBC.flights,available,,,high,low,3,,,,
+97b003ba-8ca9-495a-b1b9-d60eb4730e58,bbc.flights,available,,,high,low,3,,,,
 a4944466-6d0e-47e8-a10a-3677586664e6,lookatme.flights,available,58.99,58.99,medium,low,10,namesilo,,,
 c2224d8b-23a1-432a-a91f-48781a03dc19,psyche.flights,available,59.99,,medium,low,6,name.com,,,
-63c73a72-b430-4d2e-b3cc-9b3c6880f85c,RedCross.flights,available,,,low,low,9,,,,
+63c73a72-b430-4d2e-b3cc-9b3c6880f85c,redcross.flights,available,,,low,low,9,,,,
 920aacf1-5cbb-4e3d-9f6e-b408a13536b4,albinistic.flights,available,23.98,75.98,low,low,10,namecheap,,,
 b4c1feff-9174-4769-9c87-ac6534845e2d,andalusian.flights,available,23.98,75.98,low,low,10,namecheap,,,
 896fc513-6552-4acd-b75c-1bf50a287935,iceblue.flights,available,58.99,58.99,high,low,8,namesilo,,,
@@ -797,7 +795,7 @@ b4c1feff-9174-4769-9c87-ac6534845e2d,andalusian.flights,available,23.98,75.98,lo
 88a2f751-ddd1-4a50-961f-27feca6baedf,generalequilibrium.flights,available,58.99,58.99,medium,low,19,namesilo,,,
 d4a783b7-bff1-465b-a383-80011e72a222,adviser.flights,available,58.99,58.99,high,low,7,namesilo,,,
 6fe65733-8027-4886-acfd-f1d38333a682,lawyer.flights,premium,118.8,118.8,medium,low,6,namesilo,,,
-059805f9-49ac-4d5a-9afc-e915a6043fbe,BlackTuesday.flights,available,58.99,58.99,medium,low,13,namesilo,,,
+059805f9-49ac-4d5a-9afc-e915a6043fbe,blacktuesday.flights,available,58.99,58.99,medium,low,13,namesilo,,,
 583096ba-4b94-4234-9ce7-e085df2ff0b7,bore.flights,available,59.99,75.99,high,low,4,name.com,,,
 7e031553-1b1b-43d7-b3b6-93688e39203d,vain.flights,available,58.99,58.99,medium,low,4,namesilo,,,
 6f8ff95b-2c2e-41a7-94a1-473e824d5c82,liable.flights,available,58.99,58.99,high,low,6,namesilo,,,
@@ -808,7 +806,7 @@ c9d70c21-f7e7-4d3f-9ed8-25a6b1b8d683,madrid.flights,premium,500,,high,low,6,name
 a51cfc87-093c-434b-b8ea-763261940eec,impact.flights,available,,,high,low,6,,,,
 57ccd6f4-f267-44f0-a4ec-674c38023ef6,azo.flights,available,23.98,75.98,low,low,3,namecheap,,,08/08/2026 02:17
 4086bef4-b2b2-4eae-91e9-c2f04df25ec3,reset.flights,available,,,high,low,5,,,,
-7cca7657-1087-48ec-8adb-c7e3a62e19a2,Seals.flights,available,58.99,58.99,medium,low,5,namesilo,,,
+7cca7657-1087-48ec-8adb-c7e3a62e19a2,seals.flights,available,58.99,58.99,medium,low,5,namesilo,,,
 f3f1b341-1e58-47a1-96ab-9edf01a62598,confess.flights,available,58.99,58.99,high,low,7,namesilo,,,
 8cbaa1fb-e631-4070-a4b7-c347f978c576,corrupt.flights,available,59.99,75.99,high,low,7,name.com,,,
 8686a061-0295-4824-b7e6-8e1d760604ff,hopeful.flights,available,59.99,,high,low,7,name.com,,,
@@ -836,18 +834,18 @@ b7be4c49-8efd-430d-be73-10904c4e5820,humanlike.flights,available,23.98,75.98,low
 3e3f22ce-c591-451b-b9fa-48ae47f56113,doughnut.flights,available,58.99,58.99,medium,low,8,namesilo,,,
 cd4e77de-b10b-4ccb-970a-e9ecfd9343b2,pray.flights,available,58.99,58.99,medium,low,4,namesilo,,,
 f0ce1999-8cee-4dd2-bea8-87ef9ee3eba5,ondemand.flights,available,58.99,58.99,medium,low,9,namesilo,,,
-b883cccf-9ef1-4752-ab5d-14f3fd6de4ac,SouthCarolina.flights,premium,118.8,118.8,low,low,14,namesilo,,,
+b883cccf-9ef1-4752-ab5d-14f3fd6de4ac,southcarolina.flights,premium,118.8,118.8,low,low,14,namesilo,,,
 a0c37628-7d8a-4b99-957e-bb545fc9baab,airplane.flights,premium,118.8,118.8,high,low,8,namesilo,,,
 c578fe3e-c528-4600-b658-c55257a5d4f2,respiratory.flights,available,58.99,58.99,low,low,11,namesilo,,,
 b12c17c8-7ffb-4587-8453-0343efb8b490,butter.flights,available,58.99,58.99,high,low,6,namesilo,,,
 9e6fade2-e866-4ea4-866d-e422fd935255,oldagepensioner.flights,available,59.99,,medium,low,17,name.com,,,
 e6e6a1dd-7e35-4ca8-af44-d5ccd4409eab,grandson.flights,available,59.99,,high,low,8,name.com,,,
-11bf89fb-0b8e-4c14-85a0-72b6a794229c,VaticanCity.flights,available,58.99,58.99,low,low,12,namesilo,,,
+11bf89fb-0b8e-4c14-85a0-72b6a794229c,vaticancity.flights,available,58.99,58.99,low,low,12,namesilo,,,
 3b9e4d22-33aa-4471-8b87-e9e4caa12221,lan.flights,available,58.99,58.99,medium,low,3,namesilo,,,
 dd1d7bed-263b-4f0a-bd59-ff3fcf3aeea0,aramaic.flights,available,23.98,75.98,low,low,7,namecheap,,,06/08/2026 12:13
 896260dd-4b47-4f88-9af9-bc31ebfa1b07,device.flights,available,58.99,58.99,high,low,6,namesilo,,,
 4ae8898e-d6e3-48b3-839d-57b675d9104f,fiery.flights,available,23.98,75.98,low,low,5,namecheap,,,06/08/2026 16:24
-26f884ba-9627-482d-a5e2-d180afc7ba8c,rain.flights,available,23.98,75.98,medium,low,4,namecheap,,,15/09/2026 03:53
+26f884ba-9627-482d-a5e2-d180afc7ba8c,rain.flights,available,59.99,75.99,medium,low,4,name.com,,,19/09/2026 07:28
 23266a57-887a-40bf-885e-df211080996c,law.flights,premium,128.7,128.7,high,medium,3,namecheap,,,
 e072049c-7671-474d-899d-491bf54bbcb1,comerainorshine.flights,available,58.99,58.99,medium,low,18,namesilo,,,
 c4d107e4-5fd5-466a-8d94-1cc9220a0998,bogus.flights,available,23.98,75.98,low,low,5,namecheap,,,08/08/2026 22:58
@@ -877,7 +875,7 @@ a63d9ca6-bdb8-458f-ae2d-bc0d75b8066f,alterable.flights,available,59.99,75.99,hig
 653f0173-57d9-4d70-a972-77f72026c4a2,politely.flights,available,59.99,,medium,low,8,name.com,,,
 ce3a836c-5563-449c-bc77-f29c3b3a1103,xcvi.flights,available,23.98,75.98,low,low,4,namecheap,,,
 f983b351-5295-46de-9eb2-c236eb0c10b3,gobackintime.flights,available,59.99,,high,low,15,name.com,,,
-78fa4b8c-ebbe-490d-ab4e-4e0f0874af03,LettersandScience.flights,available,58.99,58.99,high,low,19,namesilo,,,
+78fa4b8c-ebbe-490d-ab4e-4e0f0874af03,lettersandscience.flights,available,58.99,58.99,high,low,19,namesilo,,,
 9eac48ed-c638-4fa9-9f05-9368acdf935a,stricken.flights,available,23.98,75.98,low,low,8,namecheap,,,
 713f774f-e419-43a3-a4c1-658609fe03d6,anapaestic.flights,available,23.98,75.98,low,low,10,namecheap,,,
 1a15c77f-a2ca-4517-bbd7-60d481d1de0d,instruct.flights,available,59.99,,high,low,8,name.com,,,
@@ -903,7 +901,7 @@ efe61b5b-e152-454d-96fc-b3b4199f1dbd,spellcheck.flights,available,58.99,58.99,hi
 e35572b7-aa9c-4d1a-b3c7-e490588a8c1b,printable.flights,available,58.99,58.99,high,low,9,namesilo,,,
 a445761c-e544-47b8-a09b-a7be74c96eeb,brief.flights,available,59.99,75.99,high,low,5,name.com,,,
 7925cfa5-6063-4783-a429-8dec5418eceb,influential.flights,available,23.98,75.98,medium,low,11,namecheap,,,08/09/2026 05:20
-b0be953f-afcd-4b1a-99bc-cb74fb169a6d,television.flights,available,59.99,,high,low,10,name.com,,,
+b0be953f-afcd-4b1a-99bc-cb74fb169a6d,television.flights,available,58.99,58.99,medium,low,10,namesilo,,,20/09/2026 02:37
 ebfd1179-df78-4845-ab3a-4f45450b7a6b,scornful.flights,available,59.99,75.99,medium,low,8,name.com,,,
 456465ae-d173-4f3f-9c84-187419db2b33,instead.flights,available,58.99,58.99,high,low,7,namesilo,,,
 ea9eef08-a1c2-4cdf-ba57-6e26b8528bdb,montreal.flights,premium,123.75,,medium,low,8,name.com,,,
@@ -914,7 +912,7 @@ f168658f-6819-493b-a82f-ad3e734249ac,geometry.flights,available,59.99,,medium,lo
 cf5bb017-7fe8-4b47-8714-274c5cba8901,else.flights,available,58.99,58.99,high,low,4,namesilo,,,
 0afc1dbb-256a-4feb-8778-91a9df735267,admissible.flights,available,23.98,75.98,low,low,10,namecheap,,,
 8d035b29-2362-47a9-a94b-9138b944853e,vivid.flights,available,58.99,58.99,high,low,5,namesilo,,,
-919cd11a-8c42-4d6b-af88-4aa41b4ec5b2,Googler.flights,available,59.99,,high,low,7,name.com,,,
+919cd11a-8c42-4d6b-af88-4aa41b4ec5b2,googler.flights,available,59.99,,high,low,7,name.com,,,
 3d38b996-772e-4030-b7b9-781a86ccee8c,playbyear.flights,available,59.99,,medium,low,11,name.com,,,
 55f4f202-4b7e-4179-9db7-938bde8a40d5,breathofheaven.flights,available,58.99,58.99,high,low,16,namesilo,,,
 b6b402a7-b7cf-4781-9250-7936aef1ec7e,stagingarea.flights,available,58.99,58.99,medium,low,12,namesilo,,,
@@ -930,9 +928,9 @@ e39935f1-c3de-4b1b-8755-bf240af4bd3b,awakened.flights,available,58.99,58.99,medi
 b8d53421-5a13-4910-b63d-6b731e91006f,available.flights,premium,118.8,118.8,high,low,9,namesilo,,,
 75b12826-8404-43bd-809d-2b9cec111bac,painful.flights,available,23.98,75.98,low,low,7,namecheap,,,
 bd4b98d9-8a1c-4fa9-8ec7-de72f21fa2e9,deck.flights,available,59.99,,high,low,4,name.com,,,
-2f8636ae-34ed-4177-ad78-2ba0fe8afdad,Frenchpancake.flights,available,59.99,,high,low,14,name.com,,,
+2f8636ae-34ed-4177-ad78-2ba0fe8afdad,frenchpancake.flights,available,59.99,,high,low,14,name.com,,,
 e5378068-cfc1-412c-ae59-943e04f2a88e,baroque.flights,available,23.98,75.98,low,low,7,namecheap,,,08/08/2026 20:26
-65f0555d-e4d0-4aea-9a4e-624ecdf6b038,Powers.flights,available,58.99,58.99,high,low,6,namesilo,,,
+65f0555d-e4d0-4aea-9a4e-624ecdf6b038,powers.flights,available,58.99,58.99,high,low,6,namesilo,,,
 70b7c41b-bc96-49b1-846e-70d1da30cf3c,secondguess.flights,available,58.99,58.99,medium,low,12,namesilo,,,
 99c7e5a3-9c65-4e87-a0b3-1078f987ea5d,footballmatch.flights,available,58.99,58.99,high,low,14,namesilo,,,
 e0b95fdc-cbfe-4a9e-bb75-9bf46bc6405e,europe.flights,premium,242,242,medium,low,6,namesilo,,,
@@ -941,10 +939,10 @@ c851befd-bdcd-41cc-bd50-8c450aa334b8,sawtooth.flights,available,58.99,58.99,low,
 c50cc1ba-7a15-4e6c-9dfb-ba5f9f43ff4e,missingperson.flights,available,58.99,58.99,medium,low,14,namesilo,,,
 86464189-aee4-4ac2-9509-e3d398d13b32,howsayyou.flights,available,58.99,58.99,medium,low,11,namesilo,,,
 6491e89a-be41-426a-bd09-bfb98d63a3f2,adrenalinerush.flights,available,58.99,58.99,high,low,15,namesilo,,,
-af539de0-fe6c-4bfc-868a-b720f0660ec6,StPetersburgh.flights,available,58.99,58.99,medium,low,15,namesilo,,,
+af539de0-fe6c-4bfc-868a-b720f0660ec6,stpetersburgh.flights,available,58.99,58.99,medium,low,15,namesilo,,,
 6356afee-a2e5-4d34-a0b1-03642f69ddf9,hearing.flights,available,58.99,58.99,high,low,7,namesilo,,,
 19e6de9c-46ec-48d4-b77e-4b2416493821,oldgeezer.flights,available,23.98,75.98,low,low,10,namecheap,,,05/08/2026 19:25
-198bae5d-6a68-44dc-808b-7d0a5f939371,ISO.flights,available,,,high,low,3,,,,
+198bae5d-6a68-44dc-808b-7d0a5f939371,iso.flights,available,,,high,low,3,,,,
 208609af-d636-46de-8d14-1a218d362afe,thinktwice.flights,available,58.99,58.99,medium,low,11,namesilo,,,
 f90dd3ff-4295-4cd4-a81e-688b19dd3c49,acquirable.flights,available,23.98,75.98,low,low,10,namecheap,,,
 8c21eb53-af1e-49a8-829d-205f55836527,retrieve.flights,available,58.99,58.99,high,low,8,namesilo,,,
@@ -999,3 +997,5 @@ ceef8e43-0715-4cde-a31a-9c0b227daf8a,lookup.flights,premium,242,242,high,low,7,n
 9489fc6d-9d93-46ef-a0bf-e0769b3d1284,auriform.flights,available,23.98,75.98,low,low,8,namecheap,,,07/08/2026 17:57
 387ea13e-95b2-4581-94ae-3bee8d3212fb,privileged.flights,available,58.99,58.99,medium,low,10,namesilo,,,
 2752189d-14e9-4da7-bddd-6cd30da3d40a,howareyoudoing.flights,available,58.99,58.99,medium,low,17,namesilo,,,
+9e6ab074-c497-4bfb-bafd-cd4960efc4a4,driveup.flights,available,58.99,58.99,high,low,8,namesilo,,,
+85339c8b-6a68-48f9-8070-bd9601e2c169,scripted.flights,available,58.99,58.99,medium,low,8,namesilo,,,
