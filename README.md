@@ -1,10 +1,10 @@
-# Available .FLIGHTS One-Word Domains (32,777)
+# Available .FLIGHTS One-Word Domains (23,141)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C777%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C141%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .flights one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,777 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,141 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,777 domains · **Median ask:** $42.89 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 23,141 domains · **Median ask:** $44.45 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/flights`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| abo.flights    | available | $23.98    | $75.98        | high           | low    | 3      | namecheap       |
-| united.flights | resell    | —         | —             | high           | medium | 6      | NameCheap, Inc. |
-| ads.flights    | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo        |
-| aft.flights    | available | $23.98    | $75.98        | high           | low    | 3      | namecheap       |
-| bar.flights    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
-| azo.flights    | available | $23.98    | $75.98        | high           | low    | 3      | namecheap       |
-| dog.flights    | premium   | $123.75   | —             | high           | low    | 3      | name.com        |
-| cue.flights    | available | $59.99    | —             | high           | low    | 3      | name.com        |
-| gal.flights    | premium   | $242      | $242          | high           | low    | 3      | namesilo        |
-| did.flights    | available | $58.99    | $58.99        | high           | low    | 3      | namesilo        |
-| job.flights    | premium   | $123.75   | —             | high           | low    | 3      | name.com        |
-| dye.flights    | available | $58.99    | $58.99        | high           | low    | 3      | namesilo        |
-| law.flights    | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap       |
-| ear.flights    | available | $58.99    | $58.99        | high           | low    | 3      | namesilo        |
-| lol.flights    | premium   | $500      | —             | high           | low    | 3      | name.com        |
-| feb.flights    | available | $58.99    | $58.99        | high           | low    | 3      | namesilo        |
-| may.flights    | premium   | $123.75   | —             | high           | low    | 3      | name.com        |
-| hug.flights    | available | $58.99    | $58.99        | high           | low    | 3      | namesilo        |
-| tel.flights    | premium   | $500      | —             | high           | low    | 3      | name.com        |
-| iii.flights    | available | $23.98    | $75.98        | high           | low    | 3      | namecheap       |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| aku.flights       | available | $58.99    | $58.99        | high           | low    | 3      | namesilo                                    |
+| virtually.flights | resell    | —         | —             | high           | low    | 9      | GoDaddy Online Services Cayman Islands Ltd. |
+| fog.flights       | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap                                   |
+| ang.flights       | available | $58.99    | $58.99        | high           | low    | 3      | namesilo                                    |
+| hey.flights       | premium   | $123.75   | —             | high           | medium | 3      | name.com                                    |
+| ash.flights       | available | $58.99    | $58.99        | high           | low    | 3      | namesilo                                    |
+| hiv.flights       | premium   | $260      | $260          | high           | low    | 3      | namecheap                                   |
+| azt.flights       | available | $58.99    | $58.99        | high           | low    | 3      | namesilo                                    |
+| one.flights       | premium   | $512      | $512          | high           | medium | 3      | namesilo                                    |
+| bee.flights       | available | $58.99    | $58.99        | high           | medium | 3      | namesilo                                    |
+| won.flights       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                    |
+| cpr.flights       | available | $58.99    | $58.99        | high           | low    | 3      | namesilo                                    |
+| asia.flights      | premium   | $500      | —             | high           | low    | 4      | name.com                                    |
+| cue.flights       | available | $59.99    | —             | high           | low    | 3      | name.com                                    |
+| boer.flights      | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo                                    |
+| dud.flights       | available | $23.98    | $75.98        | high           | low    | 3      | namecheap                                   |
+| loft.flights      | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                    |
+| eta.flights       | available | $58.99    | $58.99        | high           | low    | 3      | namesilo                                    |
+| mail.flights      | premium   | $512      | $512          | high           | medium | 4      | namesilo                                    |
+| gar.flights       | available | $58.99    | $58.99        | medium         | low    | 3      | namesilo                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,777 live domains                        |
+| 1,000-row public sample | 23,141 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 2 high-demand names under $2,500           |
+| Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FLIGHTS One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FLIGHTS One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
